@@ -17,6 +17,14 @@ body {
     font-size: 30px;
     color: white;
     margin-top: 20px;
+    height: 244px;
+}
+
+#display{
+    min-height: 34px;
+    background-color: darkorange;
+    padding-right: 5px;
+    color: black;
 }
 
 #calculator .nums {
